@@ -57,9 +57,13 @@ npm run dev -- check ./path/to/file.json --verbose
 
 **Checking a Transaction Signing Request**
 
+```bash
 npm run dev -- check ./samples/transaction_automation.json
+```
 
-[Sample Output](./sample_query.png)
+Output:
+
+![Sample Output](./sample_query.png)
 
 **Checking a Policy File**
 
