@@ -1,0 +1,7 @@
+{
+  "org_id": "",
+  "wallet_id": "wallet_123",
+  "api_public_key": "invalid-key",
+  "api_private_key": "short",
+  "base_url": "http://api.turnkey.com"
+}

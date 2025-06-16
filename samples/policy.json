@@ -1,0 +1,5 @@
+{
+    "policyName": "Enable transactions with a transfer sent by <SENDER_ADDRESS>",
+    "effect": "EFFECT_ALLOW",
+    "condition": "solana.tx.transfers.all(transfer, transfer.from == '<SENDER_ADDRESS>')"
+}

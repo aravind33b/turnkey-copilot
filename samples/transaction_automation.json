@@ -1,0 +1,10 @@
+{
+    "timestampMs": "1750045965000",
+    "type": "ACTIVITY_TYPE_SIGN_TRANSACTION_V2",
+    "organizationId": "a90d78dc-3245-49e7-add8-400b6edccbe9",
+    "parameters": {
+      "type": "TRANSACTION_TYPE_ETHEREUM",
+      "signWith": "0x4c7839aC8dFBe7674CF5997DC05156615AcbB850",
+      "unsignedTransaction": "02ed83aa36a780843b9aca00843b9aca0b825208943392eb09edaf41e97f917464167d10f7ad4e56fd830f424080c0"
+    }
+}
